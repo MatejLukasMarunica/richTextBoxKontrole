@@ -1,0 +1,11 @@
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\bin\Debug\richTextBoxKontrole.exe.config
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\bin\Debug\richTextBoxKontrole.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\bin\Debug\richTextBoxKontrole.pdb
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.csproj.AssemblyReference.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.Form1.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.Properties.Resources.resources
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.csproj.GenerateResource.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.exe
+C:\Users\ucenik\Desktop\MAtej Lukas Marunica - VS - 3.D\richTextBoxKontrole\richTextBoxKontrole\obj\Debug\richTextBoxKontrole.pdb
